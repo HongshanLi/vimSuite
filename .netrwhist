@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/scr1/li108/Documents/math/unitaryVanishing'
+let g:netrw_dirhist_2='/export/users/li108/texmf/tex/latex/local'
+let g:netrw_dirhist_3='/scr1/li108/Documents/math/unitaryVanishing'

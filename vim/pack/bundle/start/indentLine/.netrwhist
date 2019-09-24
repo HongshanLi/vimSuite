@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/scr1/li108/ML/press_to_amp/optimizer.py'
+let g:netrw_dirhist_2='/export/users/li108/.aws'
+let g:netrw_dirhist_3='/scr1/li108/ML/pytorch_workflow'
